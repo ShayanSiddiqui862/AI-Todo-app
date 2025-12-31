@@ -1,0 +1,5 @@
+# Dependencies for Todo In-Memory Python Console App
+# This project uses only Python standard library, so no external dependencies are required for the application itself.
+# Pytest is used for testing.
+
+pytest>=9.0.0
